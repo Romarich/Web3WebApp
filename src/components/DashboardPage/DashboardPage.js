@@ -7,6 +7,7 @@ import Footer from '../Footer/Footer'
 import './DashboardPage.css'
 
 //Juste chercher comment faire pour reprendre la date du navigateur
+
 function DashboardPage() {
   var date = new Date();
   var heure = date.getHours();
